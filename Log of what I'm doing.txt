@@ -1,0 +1,8 @@
+Log of what I'm doing
+
+Added a dictionary of masses to be called in the functions.
+Fixed the way that masses are being inputted into the formulas.
+Fixed the way g_star and g_starS are being taken.
+Changed the Planck mass from 1MeV to 21.76 micrograms or 1.2206x10^22 MeV
+Added a second Y_eq function for when x << 3. Previously was using the Y_eq function for x >> 3 even when dealing with small values.
+Tinkered with some functions and tried outputting number density and getting Y_eq that way.
